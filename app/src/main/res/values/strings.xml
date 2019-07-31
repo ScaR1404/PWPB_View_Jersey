@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">View Jersey</string>
+    <string name="name">JERSEY BOLA MANCHESTER UNITED TRAINING PREMATCH 2019/2020 GRADE ORI</string>
+    <string name="harga">Rp 59.899</string>
+    <string name="stok">Stok Terbatas!</string>
+    <string name="tersedia">Tersedia >50pcs</string>
+    <string name="size">Size :</string>
+    <string name="sizeS">S</string>
+    <string name="sizeM">M</string>
+    <string name="sizeL">L</string>
+    <string name="sizeXL">XL</string>
+    <string name="ketS">Lebar 50cm Panjang 72cm</string>
+    <string name="ketM">Lebar 52cm Panjang 74cm</string>
+    <string name="ketL">Lebar 54cm Panjang 76cm</string>
+    <string name="ketXL">Lebar 56cm Panjang 78cm</string>
+    <string name="transaksi">100%  Transaksi Sukses Dari  1  Transaksi </string>
+</resources>
